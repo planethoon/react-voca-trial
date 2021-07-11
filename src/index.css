@@ -60,7 +60,8 @@ a {
   padding: 10px;
 }
 
-.list_day a {
+.list_day a,
+.emptypage {
   display: block;
   padding: 20px 0;
   font-weight: bold;
