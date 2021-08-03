@@ -1,8 +1,29 @@
 {
   "days": [
-    {"id": 1, "day": 1},
-    {"id": 2, "day": 2},
-    {"id": 3, "day": 3}
+    {
+      "id": 1,
+      "day": 1
+    },
+    {
+      "id": 2,
+      "day": 2
+    },
+    {
+      "id": 3,
+      "day": 3
+    },
+    {
+      "day": 4,
+      "id": 4
+    },
+    {
+      "day": 5,
+      "id": 5
+    },
+    {
+      "day": 6,
+      "id": 6
+    }
   ],
   "words": [
     {
@@ -10,14 +31,14 @@
       "day": 1,
       "eng": "book",
       "kor": "책",
-      "isDone": false
+      "isDone": true
     },
     {
       "id": 2,
       "day": 1,
       "eng": "apple",
       "kor": "사과",
-      "isDone": false
+      "isDone": true
     },
     {
       "id": 3,
@@ -45,21 +66,14 @@
       "day": 2,
       "eng": "eraser",
       "kor": "지우개",
-      "isDone": false
-    },
-    {
-      "id": 7,
-      "day": 2,
-      "eng": "pencil",
-      "kor": "연필",
-      "isDone": false
+      "isDone": true
     },
     {
       "id": 8,
       "day": 3,
       "eng": "school",
       "kor": "학교",
-      "isDone": false
+      "isDone": true
     },
     {
       "id": 9,
@@ -76,19 +90,25 @@
       "isDone": false
     },
     {
-      "id": 11,
-      "day": 3,
-      "eng": "monitor",
-      "kor": "모니터",
-      "isDone": false
+      "day": "2",
+      "eng": "window",
+      "kor": "창문",
+      "isDone": false,
+      "id": 11
     },
     {
-      "id": 12,
-      "day": 3,
-      "eng": "coffee",
-      "kor": "커피",
-      "isDone": false
+      "day": 2,
+      "eng": "water",
+      "kor": "물",
+      "isDone": false,
+      "id": 12
+    },
+    {
+      "day": 6,
+      "eng": "finished!",
+      "kor": "끝냈다!",
+      "isDone": false,
+      "id": 13
     }
   ]
-
 }
